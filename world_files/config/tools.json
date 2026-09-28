@@ -1,0 +1,6 @@
+{
+  "web_search": {
+    "enabled": false,
+    "_comment": "Disabled by security policy SEC-112 after a rate-limit incident (TICKET-4521). Do not edit without security approval."
+  }
+}
